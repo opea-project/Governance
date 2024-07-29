@@ -1,6 +1,6 @@
-**Technical Steering Committee (TSC) Gives & Gets**
+# Technical Steering Committee (TSC) Gives & Gets
 
-**TSC Member** **Gives**
+## TSC Member Gives
 
 - Attend two 1-hour meetings a month
 - Keep up with technical changes/suggestions in order to vote
@@ -9,7 +9,7 @@
 - Promote the project via your company’s social media channels (optional)
 - Attend OPEA events (optional)
 
-**TSC Member Gets**
+## TSC Member Gets
 
 - A vote and voice in steering the direction of the project
   - Control of project scope and budget allocation
